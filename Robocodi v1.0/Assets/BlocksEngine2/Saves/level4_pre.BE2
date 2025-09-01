@@ -1,0 +1,418 @@
+<Block>
+  <blockName>Block Ins WhenPlayClicked_pres</blockName>
+  <position>(-130.62, 486.61, 0.00)</position>
+  <varManagerName></varManagerName>
+  <varName />
+  <defineID />
+  <isLocalVar />
+  <defineItems />
+  <sections>
+    <Section>
+      <childBlocks>
+        <Block>
+          <blockName>Block Ins TurnDirection_pres_sag</blockName>
+          <position>(0.00, 10.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sağ</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward_pres</blockName>
+          <position>(0.00, -60.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>6</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection_pres</blockName>
+          <position>(0.00, -130.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sol</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward_pres</blockName>
+          <position>(0.00, -200.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>2</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection_pres</blockName>
+          <position>(0.00, -270.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sol</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward_pres</blockName>
+          <position>(0.00, -340.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>1</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection_pres_sag</blockName>
+          <position>(0.00, -410.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sağ</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward_pres</blockName>
+          <position>(0.00, -480.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>1</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection_pres</blockName>
+          <position>(0.00, -550.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sol</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward_pres</blockName>
+          <position>(0.00, -620.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>4</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection_pres_sag</blockName>
+          <position>(0.00, -690.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sağ</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward_pres</blockName>
+          <position>(0.00, -760.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>3</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection_pres_sag</blockName>
+          <position>(0.00, -830.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sağ</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward_pres</blockName>
+          <position>(0.00, -900.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>2</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection_pres_sag</blockName>
+          <position>(0.00, -970.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sağ</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward_pres</blockName>
+          <position>(0.00, -1040.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>1</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection_pres</blockName>
+          <position>(0.00, -1110.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sol</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward_pres</blockName>
+          <position>(0.00, -1180.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>3</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection_pres</blockName>
+          <position>(0.00, -1250.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sol</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward_pres</blockName>
+          <position>(0.00, -1320.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>1</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+      </childBlocks>
+      <inputs />
+    </Section>
+  </sections>
+</Block>
+#
+

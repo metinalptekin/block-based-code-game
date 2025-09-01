@@ -1,0 +1,218 @@
+<Block>
+  <blockName>Block Ins WhenPlayClicked</blockName>
+  <position>(194.36, -204.72, 0.00)</position>
+  <varManagerName></varManagerName>
+  <varName />
+  <defineID />
+  <isLocalVar />
+  <defineItems />
+  <sections>
+    <Section>
+      <childBlocks>
+        <Block>
+          <blockName>Block Ins TurnDirection</blockName>
+          <position>(0.00, 10.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sağ</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward</blockName>
+          <position>(0.00, -60.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>1</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection</blockName>
+          <position>(0.00, -130.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sol</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward</blockName>
+          <position>(0.00, -200.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>3</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection</blockName>
+          <position>(0.00, -270.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sol</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward</blockName>
+          <position>(0.00, -340.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>1</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection</blockName>
+          <position>(0.00, -410.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sağ</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward</blockName>
+          <position>(0.00, -480.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>2</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins TurnDirection</blockName>
+          <position>(0.00, -550.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>Sağ</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+        <Block>
+          <blockName>Block Ins MoveForward</blockName>
+          <position>(0.00, -620.00, 0.00)</position>
+          <varManagerName></varManagerName>
+          <varName />
+          <defineID />
+          <isLocalVar />
+          <defineItems />
+          <sections>
+            <Section>
+              <childBlocks />
+              <inputs>
+                <Input>
+                  <isOperation>false</isOperation>
+                  <value>4</value>
+                </Input>
+              </inputs>
+            </Section>
+          </sections>
+        </Block>
+      </childBlocks>
+      <inputs />
+    </Section>
+  </sections>
+</Block>
+#
+

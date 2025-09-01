@@ -29,7 +29,6 @@ Unity 6.0
 
 C#
 
-Blocks Engine 2 (özel olarak özelleştirildi)
 
 ---
 

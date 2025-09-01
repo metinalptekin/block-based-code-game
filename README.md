@@ -12,7 +12,7 @@ Scratch benzeri sürükle-bırak blok sistemiyle, oyuncular robotlarını yönle
 **Labirent ve Engel Sistemi**: Her seviyede farklı başlangıç, bitiş ve engeller.  
 **Algoritma Mantığı**: Çocuklar adım adım düşünerek çözüm üretir.  
 **Eğlenceli Tasarım**: Renkli grid sistemi ve basit animasyonlar.  
-**Seviye Sistemi**: Zorluk giderek artar (1–10 arası).  
+**Seviye Sistemi**: Zorluk giderek artar (1–20 arası).  
 
 ---
 
@@ -20,3 +20,40 @@ Kurulum
 1. Bu repoyu bilgisayarına indir:
    ```bash
    git clone https://github.com/metinalptekin/block-based-code-game.git
+
+---
+
+Kullanılan Teknolojiler
+
+Unity 6.0
+
+C#
+
+Blocks Engine 2 (özel olarak özelleştirildi)
+
+---
+
+Proje Amacı
+
+RoboCodi, çocukların:
+
+Problem çözme
+
+Algoritmik düşünme
+
+Yaratıcılık
+becerilerini geliştirmeyi amaçlar.
+
+---
+
+Lisans
+
+Bu proje MIT Lisansı ile paylaşılmıştır.
+Dilediğiniz gibi geliştirebilir, öğrenme amaçlı kullanabilirsiniz.
+
+---
+
+İletişim
+
+Herhangi bir soru veya işbirliği için:
+📧 metinalptekin10@gmail.com
